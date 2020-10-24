@@ -1,4 +1,4 @@
-#How to appdoida
+# How to appdoida
 ## CentOS Linux 7.7.1908 
 
 ``` 
