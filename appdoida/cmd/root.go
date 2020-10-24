@@ -8,7 +8,7 @@ import (
 
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
-	Use:   "minhappdoida",
+	Use:   "appdoida",
 	Short: "This is my first CLI using Go",
 	Long: `This is my first app CLI using Go and cobra, I'm very happy to make work as I expect. 
 It's a simple app that list/copy files between local filesystem and also send it to a S3.
