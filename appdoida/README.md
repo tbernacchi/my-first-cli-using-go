@@ -1,5 +1,5 @@
-## How to appdoida
-# CentOS Linux 7.7.1908 
+#How to appdoida
+## CentOS Linux 7.7.1908 
 
 ``` 
 git clone https://github.com/tbernacchi/my-first-cli-using-go.git
