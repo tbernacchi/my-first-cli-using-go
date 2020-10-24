@@ -16,6 +16,11 @@ var lsCmd = &cobra.Command{
 		// Get values of flag arguments
 		files, _ := cmd.Flags().GetString("files")
 
+
+		fmt.Println(len(os.Args)
+
+		fmt.Println(fourarg)
+
 		if (len(os.Args)) == 4 {
 			last1 := files[len(files)-1:]
 			if last1 != "/" {
