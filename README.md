@@ -1,7 +1,7 @@
 # my-first-cli-using-go
 This a repo to store my files to build CLI's in Go!
 
-## How to 
+## How to appdoida
 ``` 
 git clone https://github.com/tbernacchi/my-first-cli-using-go.git
 cd appdoida/
