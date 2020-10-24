@@ -108,7 +108,6 @@ var s3Cmd = &cobra.Command{
 					}
 
 				} else {
-
 					file, err := os.Open(f)
 					if err != nil {
 						fmt.Println(err)
